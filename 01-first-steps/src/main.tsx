@@ -1,6 +1,15 @@
+{/*
+Como buena practica, los imports siguen un orden que nos ayuda a facilitar la lectura de codigo:
+1. Importaciones de react
+2. Importaciones de terceros
+3. Importaciones (propias) personalizadas
+4. Importaciones de css al último
+*/}
 import { StrictMode } from 'react'
 import { createRoot } from 'react-dom/client'
 import { ItemCounter } from './shopping-cart/ItemCounter'
+
+import './item-row'
 
 // De esta forma asignamos los valores, aunque de momento están 'hardcodeados'.
 {/*
