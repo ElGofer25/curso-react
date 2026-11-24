@@ -146,3 +146,6 @@ Después de ejecutarlo, agregaremos dos dependencias en el .json:
         "coverage" :"vitest run --coverage"
     }
 }
+
+
+Para poder ejecutarlos, 
