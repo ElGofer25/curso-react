@@ -9,7 +9,6 @@ import { StrictMode } from 'react'
 import { createRoot } from 'react-dom/client'
 import { ItemCounter } from './shopping-cart/ItemCounter'
 
-import './item-row'
 
 // De esta forma asignamos los valores, aunque de momento están 'hardcodeados'.
 {/*
