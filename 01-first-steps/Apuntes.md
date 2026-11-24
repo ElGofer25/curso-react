@@ -121,6 +121,17 @@ index.html  ──<script src="/src/main.tsx">──▶  main.tsx  ──render(
 **`.gitignore`**: excluye `node_modules/` y `dist/`. Ambos se regeneran (`npm install` / `npm run build`).
 
 ---
+## Hooks
+¿Qué son los hooks? Casí todos son funciones
+useState --> Algo que necesita cambiar de forma dinámica  
+useEffect
+useContext
+
+Reglas:
+0. Dentro de functional componentes, al inicio, antes del return
+1. 
+
+
 
 ### Resumen
 
